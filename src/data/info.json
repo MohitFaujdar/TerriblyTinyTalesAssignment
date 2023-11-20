@@ -1,0 +1,121 @@
+{
+  "user": {
+    "name": "Mohit Faujdar",
+    "username": "MohitFaujdar",
+    "bio": "Employee at Terribly Tiny Tales",
+    "followers": 2433,
+    "following": 64,
+    "posts": [
+      {
+        "title": "Epic Sci-Fi Book Review",
+        "postcontent": "Diving into the realms of futuristic fiction, exploring captivating narratives.",
+        "liked": false,
+        "date": "December 22",
+        "readingtime": "9",
+        "views": "323",
+        "category": "thoughts"
+      },
+      {
+        "title": "Photography Expedition",
+        "postcontent": "Capturing moments through the lens, freezing time in a frame.",
+        "liked": false,
+        "date": "February 1",
+        "readingtime": "4",
+        "views": "19",
+        "category": "thoughts"
+      },
+      {
+        "title": "Tech Gadgets Unboxed",
+        "postcontent": "Unveiling the latest tech gadgets, a peek into the future of innovation.",
+        "liked": true,
+        "date": "March 20",
+        "readingtime": "3",
+        "views": "150",
+        "category": "thoughts"
+      },
+      {
+        "title": "Artistic Expressions",
+        "postcontent": "Exploring the world of art, a canvas filled with emotions and creativity.",
+        "liked": true,
+        "date": "April 5",
+        "readingtime": "6",
+        "views": "278",
+        "category": "musing"
+      },
+      {
+        "title": "Travel Chronicles: Tokyo",
+        "postcontent": "Immersing in the vibrant culture of Tokyo, a city that never sleeps.",
+        "liked": false,
+        "date": "May 17",
+        "readingtime": "7",
+        "views": "320",
+        "category": "thoughts"
+      },
+      {
+        "title": "Career Insights: Navigating Corporate Labyrinths",
+        "postcontent": "Lessons learned and strategies for success in the corporate world.",
+        "liked": true,
+        "date": "June 8",
+        "readingtime": "4",
+        "views": "185",
+        "category": "thoughts"
+      },
+
+      {
+        "title": "DIY Home Decor Projects",
+        "postcontent": "Transforming living spaces with creativity and a touch of DIY magic.",
+        "liked": true,
+        "date": "August 19",
+        "readingtime": "3",
+        "views": "240",
+        "category": "thoughts"
+      },
+      {
+        "title": "Gourmet Coffee Tasting",
+        "postcontent": "Exploring the nuances of coffee flavors, a journey for caffeine enthusiasts.",
+        "liked": false,
+        "date": "October 7",
+        "readingtime": "4",
+        "views": "180",
+        "category": "thoughts"
+      },
+      {
+        "title": "Adventure Road Trip: Pacific Coast Highway",
+        "postcontent": "Driving along the breathtaking Pacific Coast, chasing the horizon.",
+        "liked": true,
+        "date": "November 15",
+        "readingtime": "17",
+        "views": "40",
+        "category": "thoughts"
+      },
+      {
+        "title": "Personal Growth Strategies",
+        "postcontent": "Navigating the path of self-improvement, unlocking the potential within.",
+        "liked": true,
+        "date": "December 2",
+        "readingtime": "5",
+        "views": "26",
+        "category": "musing"
+      },
+      {
+        "title": "World Cuisine Cooking Class",
+        "postcontent": "Embarking on a culinary journey, mastering the art of global cuisine.",
+        "liked": false,
+        "date": "January 8",
+        "readingtime": "4",
+        "views": "20",
+        "category": "thoughts"
+      },
+      {
+        "title": "Stargazing in the Desert",
+        "postcontent": "Admiring the cosmic wonders in the tranquil desert night sky.",
+        "liked": false,
+        "date": "February 22",
+        "readingtime": "3",
+        "views": "191",
+        "category": "musing"
+      }
+    ]
+
+  }
+}
