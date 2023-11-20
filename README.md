@@ -13,3 +13,19 @@ This project is built using React, Vite, and Tailwind CSS.
 ### Change the directory
 
 `cd TerriblyTinyTalesAssignment`
+### Installing packages and running the project
+
+Make sure you have nodejs installed on your local system.
+
+```bash
+npm install
+```
+```bash
+npm run dev
+```
+
+### View the project locally on your web browser
+
+Go to `http://localhost:5173/` to view the project.
+
+#### Thank You!
