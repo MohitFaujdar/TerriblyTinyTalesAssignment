@@ -7,115 +7,96 @@
     "following": 64,
     "posts": [
       {
-        "title": "Epic Sci-Fi Book Review",
-        "postcontent": "Diving into the realms of futuristic fiction, exploring captivating narratives.",
-        "liked": false,
-        "date": "December 22",
-        "readingtime": "9",
-        "views": "323",
-        "category": "thoughts"
+          "title": "Healthy Recipe Collection",
+          "postcontent": "Crafting nutritious meals, blending flavors for a healthier lifestyle.",
+          "liked": false,
+          "date": "January 10",
+          "readingtime": "5",
+          "views": "432",
+          "category": "health"
       },
       {
-        "title": "Photography Expedition",
-        "postcontent": "Capturing moments through the lens, freezing time in a frame.",
-        "liked": false,
-        "date": "February 1",
-        "readingtime": "4",
-        "views": "19",
-        "category": "thoughts"
+          "title": "Wildlife Photography Expedition",
+          "postcontent": "Capturing nature's beauty, documenting the untamed wilderness.",
+          "liked": true,
+          "date": "March 5",
+          "readingtime": "6",
+          "views": "102",
+          "category": "nature"
       },
       {
-        "title": "Tech Gadgets Unboxed",
-        "postcontent": "Unveiling the latest tech gadgets, a peek into the future of innovation.",
-        "liked": true,
-        "date": "March 20",
-        "readingtime": "3",
-        "views": "150",
-        "category": "thoughts"
+          "title": "Blockchain and Cryptocurrency Insights",
+          "postcontent": "Understanding the dynamics of decentralized finance and digital assets.",
+          "liked": true,
+          "date": "April 20",
+          "readingtime": "8",
+          "views": "550",
+          "category": "technology"
       },
       {
-        "title": "Artistic Expressions",
-        "postcontent": "Exploring the world of art, a canvas filled with emotions and creativity.",
-        "liked": true,
-        "date": "April 5",
-        "readingtime": "6",
-        "views": "278",
-        "category": "musing"
+          "title": "Mindfulness and Meditation Practices",
+          "postcontent": "Exploring inner peace and mental clarity through mindfulness techniques.",
+          "liked": false,
+          "date": "June 3",
+          "readingtime": "7",
+          "views": "278",
+          "category": "wellness"
       },
       {
-        "title": "Travel Chronicles: Tokyo",
-        "postcontent": "Immersing in the vibrant culture of Tokyo, a city that never sleeps.",
-        "liked": false,
-        "date": "May 17",
-        "readingtime": "7",
-        "views": "320",
-        "category": "thoughts"
+          "title": "Sustainable Travel: Eco-Friendly Destinations",
+          "postcontent": "Discovering destinations committed to sustainability and conservation.",
+          "liked": true,
+          "date": "July 18",
+          "readingtime": "4",
+          "views": "360",
+          "category": "travel"
       },
       {
-        "title": "Career Insights: Navigating Corporate Labyrinths",
-        "postcontent": "Lessons learned and strategies for success in the corporate world.",
-        "liked": true,
-        "date": "June 8",
-        "readingtime": "4",
-        "views": "185",
-        "category": "thoughts"
-      },
-
-      {
-        "title": "DIY Home Decor Projects",
-        "postcontent": "Transforming living spaces with creativity and a touch of DIY magic.",
-        "liked": true,
-        "date": "August 19",
-        "readingtime": "3",
-        "views": "240",
-        "category": "thoughts"
+          "title": "Innovation in Renewable Energy",
+          "postcontent": "Exploring groundbreaking advancements in clean and renewable energy.",
+          "liked": true,
+          "date": "September 9",
+          "readingtime": "10",
+          "views": "198",
+          "category": "environment"
       },
       {
-        "title": "Gourmet Coffee Tasting",
-        "postcontent": "Exploring the nuances of coffee flavors, a journey for caffeine enthusiasts.",
-        "liked": false,
-        "date": "October 7",
-        "readingtime": "4",
-        "views": "180",
-        "category": "thoughts"
+          "title": "The Psychology of Success",
+          "postcontent": "Unraveling the psychological traits and habits of highly successful individuals.",
+          "liked": true,
+          "date": "October 24",
+          "readingtime": "6",
+          "views": "509",
+          "category": "psychology"
       },
       {
-        "title": "Adventure Road Trip: Pacific Coast Highway",
-        "postcontent": "Driving along the breathtaking Pacific Coast, chasing the horizon.",
-        "liked": true,
-        "date": "November 15",
-        "readingtime": "17",
-        "views": "40",
-        "category": "thoughts"
+          "title": "Futuristic Architecture Designs",
+          "postcontent": "Exploring avant-garde architectural concepts shaping future skylines.",
+          "liked": false,
+          "date": "December 12",
+          "readingtime": "4",
+          "views": "170",
+          "category": "design"
       },
       {
-        "title": "Personal Growth Strategies",
-        "postcontent": "Navigating the path of self-improvement, unlocking the potential within.",
-        "liked": true,
-        "date": "December 2",
-        "readingtime": "5",
-        "views": "26",
-        "category": "musing"
+          "title": "Space Exploration: Beyond Our Galaxy",
+          "postcontent": "Journeying into the mysteries of space, exploring cosmic frontiers.",
+          "liked": true,
+          "date": "January 30",
+          "readingtime": "12",
+          "views": "730",
+          "category": "science"
       },
       {
-        "title": "World Cuisine Cooking Class",
-        "postcontent": "Embarking on a culinary journey, mastering the art of global cuisine.",
-        "liked": false,
-        "date": "January 8",
-        "readingtime": "4",
-        "views": "20",
-        "category": "thoughts"
-      },
-      {
-        "title": "Stargazing in the Desert",
-        "postcontent": "Admiring the cosmic wonders in the tranquil desert night sky.",
-        "liked": false,
-        "date": "February 22",
-        "readingtime": "3",
-        "views": "191",
-        "category": "musing"
+          "title": "Mind-Blowing Virtual Reality Experiences",
+          "postcontent": "Immersive virtual reality adventures pushing the boundaries of perception.",
+          "liked": true,
+          "date": "March 15",
+          "readingtime": "8",
+          "views": "420",
+          "category": "technology"
       }
-    ]
-
+  ]
+  
   }
 }
